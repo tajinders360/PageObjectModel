@@ -15,7 +15,7 @@ public class loopdemo {
 				}
 			System.out.println("");
 		}
-
+		System.out.println("print this pattern");
 	}
 
 }
